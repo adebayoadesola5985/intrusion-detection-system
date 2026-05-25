@@ -1,0 +1,14 @@
+true_class,predicted_class,count
+R2L,Normal,2737
+DoS,Normal,1714
+Probe,Normal,821
+U2R,Normal,196
+Normal,Probe,187
+Probe,DoS,163
+Normal,DoS,67
+DoS,Probe,53
+R2L,Probe,2
+U2R,R2L,2
+Normal,U2R,1
+R2L,U2R,1
+U2R,Probe,1
